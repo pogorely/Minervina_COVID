@@ -2,7 +2,7 @@
 This repostitory contains procesed TCRalpha and TCRbeta repertoire datasets (and some results as well) for the paper by Minervina et al. on mild COVID-19 (link to arxiv/biorxiv coming soon!).
 
 ## Putatively COVID-19 reactive TCRbeta and TCRalpha sequences
-Two groups of TCR clones were identified for both donors: 
+Two groups of TCR clones with active dynamics post-infection were identified for both donors: 
 
 _contracting_ clones are clones contracting in the repertoire from day 15 to day 45 post-infection. 
 
