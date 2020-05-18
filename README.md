@@ -1,5 +1,5 @@
 # Minervina et al. mild COVID-19 longitudinal TCRseq dataset
-This repostitory contains procesed TCRalpha and TCRbeta repertoire datasets (and some results as well) for paper by Minervina et al. on mild COVID-19 (link to arxiv/biorxiv coming soon!).
+This repostitory contains procesed TCRalpha and TCRbeta repertoire datasets (and some results as well) for the paper by Minervina et al. on mild COVID-19 (link to arxiv/biorxiv coming soon!).
 
 ## Putatively COVID-19 reactive TCRbeta and TCRalpha sequences
 Two groups of TCR clones were identified for both donors: 
