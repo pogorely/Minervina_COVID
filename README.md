@@ -11,10 +11,13 @@ _expanding_ clones go up from day 15 to day 37 post-infection.
 Both groups were identified with edgeR (FDR-adjusted p<0.01, log2FC threshold=2). Clone counts are given as in first replicate of PBMC on day 15 (for _contracting_) and day 37 (for _expanding_ group).
 
 ## Complete dataset
-The complete data is available on zenodo in mixcr format: (link coming later this week)
+The complete processed repertoire data is available from zenodo in mixcr format:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3835956.svg)](https://doi.org/10.5281/zenodo.3835956)
+
+Known issue: W_45_CD4_beta lib sequencing failed for technical reasons (we will repeat it). W_45_CD4_alpha is ok. 
 
 ## Raw data
 The raw sequencing data is available at Short Read Archive acc. PRJNA633317.
 
 ## Raw data preprocessing instructions
-(link coming later this week)
+(coming soon!)
