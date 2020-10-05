@@ -3,10 +3,15 @@ This repostitory contains procesed TCRalpha and TCRbeta repertoire datasets (and
 ## Putatively COVID-19 reactive TCRbeta and TCRalpha sequences
 
 _Table_S1.tsv_ - list of libraries, with approx number of cells, number of UMIs and unique clonotypes. 
+
 _Table_S2.tsv_ - HLA-typing results.
+
 _Table_S3.tsv_ - TCRbeta clonotypes _contracting_ from day 15 to day 85 post infection, for both donors, with frequencies in each timepoint.
+
 _Table_S4.tsv_ - TCRalpha clonotypes _contracting_ from day 15 to day 85 post infection, for both donors, with frequencies in each timepoint.
+
 _Table_S5.tsv_ - TCRbeta clonotypes _expanding_ from day 15 to day 37 post infection, for both donors, with frequencies in each timepoint.
+
 _Table_S6.tsv_ -  TCRalpha clonotypes _expanding_ from day 15 to day 37 post infection, for both donors, with frequencies in each timepoint.
 
 ## Complete dataset
