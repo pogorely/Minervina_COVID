@@ -1,10 +1,11 @@
 # Minervina et al. mild COVID-19 longitudinal TCRseq dataset
 This repostitory contains procesed TCRalpha and TCRbeta repertoire datasets (and some results as well) for the paper by Minervina et al. on mild COVID-19,  [arxiv](https://arxiv.org/abs/2005.08290), [biorxiv](https://www.biorxiv.org/content/10.1101/2020.05.18.100545v3).
-## Putatively COVID-19 reactive TCRbeta and TCRalpha sequences
 
 _Table_S1.tsv_ - list of libraries, with approx number of cells, number of UMIs and unique clonotypes. 
 
 _Table_S2.tsv_ - HLA-typing results.
+
+## Putatively COVID-19 reactive TCRbeta and TCRalpha sequences
 
 _Table_S3.tsv_ - TCRbeta clonotypes _contracting_ from day 15 to day 85 post infection, for both donors, with frequencies in each timepoint.
 
