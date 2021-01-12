@@ -1,5 +1,6 @@
 # Minervina et al. mild COVID-19 longitudinal TCRseq dataset
-This repostitory contains procesed TCRalpha and TCRbeta repertoire datasets (and some results as well) for the paper by Minervina et al. on mild COVID-19,  [arxiv](https://arxiv.org/abs/2005.08290), [biorxiv](https://www.biorxiv.org/content/10.1101/2020.05.18.100545v3).
+This repostitory contains procesed TCRalpha and TCRbeta repertoire datasets (and some results as well) for the paper by Minervina et al. on mild COVID-19,  [arxiv](https://arxiv.org/abs/2005.08290), [biorxiv](https://www.biorxiv.org/content/10.1101/2020.05.18.100545v3). 
+The paper in now published in [eLife](https://elifesciences.org/articles/63502).
 
 _Table_S1.tsv_ - list of libraries, with approx number of cells, number of UMIs and unique clonotypes. 
 
